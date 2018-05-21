@@ -2,3 +2,4 @@ Cold and dry, but I like red
 second line, some change here
 this is a new line
 ss
+local line
