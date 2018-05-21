@@ -5,3 +5,4 @@ conflicting line
 newline
 local line
 changed line
+
